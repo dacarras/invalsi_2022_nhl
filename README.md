@@ -7,4 +7,5 @@ zero inflated modelling approach.. Presentation at the INVALSI 2022
 “Promuovere lʼutilizzo dei dati INVALSI nella ricerca scientifica e
 nella didattica”, Rome, Italy.
 
--   [slides here](link%20to%20be%20updated)
+-   [slides
+    here](https://www.dropbox.com/s/5du22km0qhctcph/invalsi_2022_nhl.pdf?dl=1)
